@@ -1,2 +1,2 @@
 # Product-analyst
-Файл ТЗ и еявляется READ ME файлом 
+Файл ТЗ и является READ ME файлом 
